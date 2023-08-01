@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammadziyo Valiyev</h1>
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&color=001BF7&lines=I'm+a+Full+stack+Developer;I'm+a+MERN+Developer)
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadziyo-web&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadziyo-web" /> </p>
@@ -7,9 +8,9 @@
 
 - 🌱 I’m currently learning **NestJs**
 
-- 👨‍💻 All of my projects are available at [muhammadziyo.uz](muhammadziyo.uz)
+- 👨‍💻 All of my projects are available at [muhammadziyo.uz]([muhammadziyo.uz](https://muhammadziyo.uz/))
 
-- 💬 Ask me about **MERN, PostgreSQL**
+- 💬 Ask me about **MERN,https://muhammadziyo.uz/ PostgreSQL**
 
 - 📫 How to reach me **mrvaliyev2006@gmail.com**
 
@@ -31,14 +32,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadziyo-web&" alt="muhammadziyo-web" /></p>
 
 
-##  Muhammadziyo Valiyev | Full stack developer
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&color=001BF7&lines=I'm+a+Frontend+Developer;I'm+a+React+Js+Developer;I'm+a+Node+Js+Developer;I'm+a+Express+Js+Developer)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadziyo-web)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadziyo-web&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
