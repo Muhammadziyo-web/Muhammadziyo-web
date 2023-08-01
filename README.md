@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **NestJs**
 
-- 👨‍💻 All of my projects are available at [muhammadziyo.uz]((https://muhammadziyo.uz/))
+- 👨‍💻 All of my projects are available at [muhammadziyo.uz](https://muhammadziyo.uz/)
 
 - 💬 Ask me about **MERN, PostgreSQL**
 
 - 📫 How to reach me **mrvaliyev2006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bTEZKBYEx3AzoybcgqYL5-QMaBseDwH_/view?usp=sharing](https://drive.google.com/file/d/1bTEZKBYEx3AzoybcgqYL5-QMaBseDwH_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bTEZKBYEx3AzoybcgqYL5-QMaBseDwH_/view?usp=sharing)
 
 - ⚡ Fun fact **I am a rain lover, music lover, nature activist, and cat lover.**
 
