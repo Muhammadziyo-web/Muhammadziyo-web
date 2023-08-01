@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammadziyo Valiyev</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+stack+developer;I'm+MERN+developer)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadziyo-web&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadziyo-web" /> </p>
 
 - 🔭 I’m currently working on **Hoca**
 
 - 🌱 I’m currently learning **NestJs**
 
-- 👨‍💻 All of my projects are available at [muhammadziyo.uz]([muhammadziyo.uz](https://muhammadziyo.uz/))
+- 👨‍💻 All of my projects are available at [muhammadziyo.uz]((https://muhammadziyo.uz/))
 
-- 💬 Ask me about **MERN,https://muhammadziyo.uz/ PostgreSQL**
+- 💬 Ask me about **MERN, PostgreSQL**
 
 - 📫 How to reach me **mrvaliyev2006@gmail.com**
 
