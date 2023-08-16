@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Hoca**
  
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **NestJs** 
 
 - 👨‍💻 All of my projects are available at [muhammadziyo.uz](https://muhammadziyo.uz/)
 
