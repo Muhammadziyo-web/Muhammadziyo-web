@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from Uzbekistan</h3>
 
 
-- 🔭 I’m currently working on **Hoca**
+- 🔭 I’m currently working on **Hoca** and **eglib library**
  
 - 🌱 I’m currently learning **NestJs** 
 
