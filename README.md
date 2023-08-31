@@ -6,7 +6,7 @@
  
 - 🌱 I’m currently learning **NestJs** 
 
-- 👨‍💻 All of my projects are available at [muhammadziyo.uz](https://muhammadziyo.uz/)
+- 👨‍💻 All of my projects are available at [muhammadziyo.uz](https://muhammadziyo.uz/) 
 
 - 💬 Ask me about **MERN, PostgreSQL**
 
